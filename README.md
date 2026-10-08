@@ -1,5 +1,7 @@
 # WhisperScribe
 
+Repetition loops: if long audio gets stuck repeating a phrase, untick “Use previous text as context”.
+
 A desktop app for accurate, timestamped speech-to-text. Pick an audio or video file, choose an engine, and get a transcript with start/end times that you can export as **SRT, VTT or TXT**.
 
 Two engines are built in:
