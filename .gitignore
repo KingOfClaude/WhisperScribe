@@ -42,6 +42,8 @@
 build/
 Build/
 build-*/
+models/
+models-*/
 
 # CMake generated files
 CMakeFiles/
